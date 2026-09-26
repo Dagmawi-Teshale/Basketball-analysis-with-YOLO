@@ -1,4 +1,6 @@
 /venv
+/runs
+/Basketball-Players-17
 yolov8m.pt
 yolov8l.pt
 yolov8x.pt
